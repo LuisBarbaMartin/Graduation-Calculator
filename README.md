@@ -5,14 +5,6 @@ A baisc calculator based on HTML, CSS, and JavaScript tool for estimating gradua
 ## Live Demo
 Accessible via Github Pages: https://luisbarbamartin.github.io/Graduation-Calculator/
 
-## Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git\
-```
-
 ## Features
 - Calculates remaining credits
 - Helps estimate graduation progress
@@ -24,4 +16,8 @@ git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git\
 - JavaScript
 
 ## Run Locally
+Clone the repository:
+```bash
+git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git\
+```
 Open `index.html` in a browser.
