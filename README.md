@@ -1,23 +1,31 @@
 # Graduation Calculator
 
-A baisc calculator based on HTML, CSS, and JavaScript tool for estimating graduation progress based on completed and remaining credits.
+A basic HTML, CSS, and JavaScript calculator for estimating graduation progress based on completed and remaining credits.
 
 ## Live Demo
-Accessible via Github Pages: https://luisbarbamartin.github.io/Graduation-Calculator/
+
+Accessible via GitHub Pages:
+https://luisbarbamartin.github.io/Graduation-Calculator/
 
 ## Features
-- Calculates remaining credits
-- Helps estimate graduation progress
-- Built with vanilla HTML, CSS, and JavaScript
+
+* Calculates remaining credits
+* Helps estimate graduation progress
+* Built with vanilla HTML, CSS, and JavaScript
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ## Run Locally
+
 Clone the repository:
-```bash
-git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git
+
 ```
+git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git
+cd Graduation-Calculator
+```
+
 Open `index.html` in a browser.
