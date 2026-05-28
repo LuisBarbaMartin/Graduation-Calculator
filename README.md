@@ -18,6 +18,6 @@ Accessible via Github Pages: https://luisbarbamartin.github.io/Graduation-Calcul
 ## Run Locally
 Clone the repository:
 ```bash
-git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git\
+git clone https://github.com/LuisBarbaMartin/Graduation-Calculator.git
 ```
 Open `index.html` in a browser.
